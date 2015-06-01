@@ -2,4 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
     To say git to begin to track that folder or repository
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    We keep track of the files in th staging area. We do no keep track of the files in the Untracked files
+
 
