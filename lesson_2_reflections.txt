@@ -6,4 +6,6 @@ How is the staging area different from the working directory and the repository?
 
     We keep track of the files in th staging area. We do no keep track of the files in the Untracked files
 
-
+How can you use the staging area to make sure you have one commit per logical change?
+	
+	I put things that I change in the staging area till there is enough to make a logical group of changes that is significant
