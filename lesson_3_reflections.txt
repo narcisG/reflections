@@ -16,3 +16,7 @@ A branch can be part of a fork or a clone, can be local or remote.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It is a good way to avoid conflicts as it helps you to work from the last version
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would keep my copy of the web-files I would upload a duplicate on somewhere like Dropbox, send an e-mail to the people I want to collaborate. Git needs time to learn, it is harder than I thought. So at first its difficult and needs more time. But, after a time if everybody knows Git and GitHub you probably are faster and more efficient.
