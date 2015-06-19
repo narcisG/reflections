@@ -20,3 +20,6 @@ It is a good way to avoid conflicts as it helps you to work from the last versio
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would keep my copy of the web-files I would upload a duplicate on somewhere like Dropbox, send an e-mail to the people I want to collaborate. Git needs time to learn, it is harder than I thought. So at first its difficult and needs more time. But, after a time if everybody knows Git and GitHub you probably are faster and more efficient.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would want to make changes in a branch when I try new things, just test without the fear of causing problems to the whole project. It has the advantage that I can try more things and be more risky in a secure way.
